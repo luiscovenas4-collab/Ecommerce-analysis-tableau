@@ -18,3 +18,6 @@ Customer segmentation (RFM)
 Business insights generation
 # Outcome
 Developed an interactive dashboard to support business decision-making and identify opportunities in customer retention and product strategy.
+# Markdown
+## Live Dashboard
+[View on Tableau Public] https://public.tableau.com/app/profile/luis.cove.as/viz/E-commerceSalesCustomerInsightsDashboard/Dashboard1
